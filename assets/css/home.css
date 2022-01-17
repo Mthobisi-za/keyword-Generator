@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    display: block;
+}
+
+.menu_a {
+    width: 100%;
+}
+
+.cover {
+    display: block;
+    width: 90%;
+    margin: auto;
+}
+
+.left {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.menu {
+    display: flex;
+    gap: 15px;
+    width: 90%;
+    margin: auto;
+    color: white;
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+}
